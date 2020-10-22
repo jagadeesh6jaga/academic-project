@@ -4,15 +4,12 @@
    
    compare the accuracy  of parkinson's Disease Detection before and after feature selection
    
-##  objective :
-
-    after using some  feature selection methods  the accuracy of models is improved 
 
 ## feature selection methods used :
 
-  ### 1)RFE Recursive feature elemination 
+  1)RFE Recursive feature elemination 
   
-      2) select from model feature selection 
+  2) select from model feature selection 
       
 ## machine learning algorithms used :
 
@@ -22,4 +19,72 @@
   ###  4) Logistic Regression
   
   
-  ##  before feature selection
+  ##  before feature selection :
+  
+                                       
+                                       the accuracies are :
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
