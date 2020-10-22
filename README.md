@@ -4,7 +4,10 @@
    
    compare the accuracy  of parkinson's Disease Detection before and after feature selection
    
-
+## data cleaning :
+          remove noisy  points 
+          fill empty cells  with reasonable values  .
+          
 ## feature selection methods used :
 
   1)RFE Recursive feature elemination 
@@ -62,9 +65,9 @@
                                        
 # conclusion :
 
-                   after feature selection accuracy is improved a little bit for SVM , Logistic Regression , Guassian NB  .
+                   after feature selection accuracy improvement is  little bit for models SVM , Logistic Regression , Guassian NB  .
                    
-                   and improvment of the accuracy in randomforest classifier is more than other models. 
+                   but the  improvement of the accuracy in randomforest classifier is more than other models. 
  
                                        
                                        
