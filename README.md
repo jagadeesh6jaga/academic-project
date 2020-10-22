@@ -65,7 +65,7 @@
                                        
 # conclusion :
 
-                   after feature selection accuracy improvement is  little bit for models SVM , Logistic Regression , Guassian NB  .
+                   after feature selection accuracy improvement is  little bit for the models SVM , Logistic Regression , Guassian NB  .
                    
                    but the  improvement of the accuracy in randomforest classifier is more than other models. 
  
